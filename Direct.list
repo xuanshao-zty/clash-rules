@@ -2,3 +2,7 @@
 DOMAIN-SUFFIX,capcutvod.com
 # steam
 DOMAIN-SUFFIX,steamcontent.com
+# AI中转
+DOMAIN-SUFFIX,ggchan.dev
+DOMAIN-SUFFIX,sukaka.top
+DOMAIN-SUFFIX,youzi.today
